@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Stemmer Matjila</h1>
-<h3 align="center">Frontend Developer | Aspiring Penetration Tester | Passionate Web Designer</h3>
+<h3 align="center">Junior Frontend Developer | Aspiring Penetration Tester | Passionate Web Designer</h3>
 
 ---
 
